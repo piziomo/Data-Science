@@ -1,2 +1,2 @@
 # Data-Science
-This is a documentation of my trainings trainings over the years.
+This is a documentation of my Data Science trainings over the years.
